@@ -19,7 +19,7 @@ This application's stack is composed of React, Express.js, Node.js, and MongoDB.
 ![profile page of the application](./client/public/assets/images/readme/profile-page.png)
 ![grid page of the application](./client/public/assets/images/readme/grid-page.png)
 
-This site is available at [https://afternoon-eyrie-78094.herokuapp.com/](https://afternoon-eyrie-78094.herokuapp.com/).
+This site is available at [https://protected-chamber-73286.herokuapp.com/](https://protected-chamber-73286.herokuapp.com/).
 
 ## Instructions
 1. Create an account on the landing page of the application. 
